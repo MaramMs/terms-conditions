@@ -363,29 +363,7 @@ margin:0;
 ul li {
     margin-left: 1em;
 }
-/* .statick-space h1:hover::after{
-width: 100%;
-}
 
-.statick-space span::after{
-    content: "";
-    display: block;
-    height: 3px;
-    margin-top: 2px;
-    background-color: #6195ff;
-    transition: width 0.5s;
-    
-} 
-.statick-space span::after{
-    width: 0;}
-/* width: 150px;
-    height: 4px;
-    color: #50b329; 
-     background-color: #50b329; 
-    display: inline-block; */
-    /* text-align: center;
-    margin-left: 400px;
-    margin-bottom: 90px;  */ 
    
     .statick-space img{
        
@@ -395,7 +373,7 @@ width: 100%;
             padding-right: 0px;
             position: absolute;
             left: 36px;
-            top: 30px;
+            top: 36px;
         
     }
     span.head-color{
